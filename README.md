@@ -8,9 +8,8 @@ A COVID-19 dashboard is an interactive data visualization tool that tracks and d
 💡 Key Features
 Total confirmed, active, recovered, and death cases
 State-wise / country-wise analysis
-Daily and weekly trend visualization
 Vaccination progress tracking
-Interactive charts, maps, and filters
+Total Deaths and Cured over time
 
 👉 Many dashboards also include heat maps and trendlines to help users quickly understand how the virus spreads across regions
 
